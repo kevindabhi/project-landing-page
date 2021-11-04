@@ -1,0 +1,50 @@
+body
+{
+    padding: 0;
+    margin: 0;
+        
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.header {
+    display: flex;
+    padding: 0px 20px;
+    justify-content: space-between;
+    align-items: center;
+    background: #1f2937;
+    
+}
+
+.nav{
+    display: flex;
+    gap: 20px;
+    
+}
+
+a {
+    color :white;
+
+}
+
+h1{
+    font-size: 24px;
+  
+}
+
+li {
+    list-style: none;
+}
+
+.awesome
+{
+    display: flex;
+    background: #1f2937;
+    color: white;
+}
