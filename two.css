@@ -1,0 +1,22 @@
+
+
+img {
+    width: 100px;
+    height: 100px;
+  }
+
+  body {
+    text-align: center;
+  }
+
+
+  .second {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+  }
+
+  .info {
+    max-width: 200px;
+  }
